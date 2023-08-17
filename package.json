@@ -1,0 +1,19 @@
+{
+  "name": "crud-nodejs-express-mongodb",
+  "version": "1.0.0",
+  "description": "crud-nodejs-express-mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "teste"
+  },
+  "author": "Rodrigo César Perissini",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongodb": "^5.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
